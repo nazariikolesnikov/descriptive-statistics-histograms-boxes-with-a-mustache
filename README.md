@@ -6,6 +6,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## 📊 Visualizations
-<img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/time-series-forcasting-holt-winters-arima/blob/main/Time%20Series%20Forecasting%20(Holt-Winters,%20ARIMA).png" />
+<img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/descriptive-statistics-histograms-boxes-with-a-mustache/blob/main/Boxes%20with%20a%20mustache.png" />
 
 <img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/time-series-forcasting-holt-winters-arima/blob/main/Time%20Series%20Forecasting%20(Holt-Winters,%20ARIMA).png" />
