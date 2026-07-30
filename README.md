@@ -1,4 +1,4 @@
-# Descriptive Statistics, Quantiles, Quartiles, Histograms, Boxes with a mustache
+# Descriptive Statistics, Quantiles, Quartiles, Histograms, Boxes with a Mustache (Practical Training) 
 
 ## 🤖 Technologies
 
